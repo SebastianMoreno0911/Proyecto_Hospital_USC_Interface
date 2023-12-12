@@ -1,1 +1,4 @@
-#se debe instalar el JTimer y el JCalandar no se como explicarlo por aqui pero se agrega a la paleta y listo, buscar como en internet :D
+## Uso del programa correcto del programa:
+Se debe instalar el JTimer y el JCalandar (estan incluidos en el folder correspondiente con su .jar), estos los uso
+en el programa para interfaces.
+
