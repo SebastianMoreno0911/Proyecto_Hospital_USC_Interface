@@ -1,0 +1,43 @@
+
+_
+java:S1192 "IDefine a constant instead of duplicating this literal "user.dir" 5 times.(È¨°Ý
+q
+java:S1192 "[Define a constant instead of duplicating this literal "\\src\\main\\java\\Datos\\" 4 times.(È¨°Ý
+f	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¾…·
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“‚Çáÿÿÿÿÿ
+b
+java:S2095m"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(è¹Â…
+g
+java:S2095("LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(þä«Ôøÿÿÿÿ
+^
+java:S2095{"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÓƒÍ€
+b
+java:S2095["LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Žð­Ï
+a
+java:S2095|"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÂÂÏ!
+c
+java:S2095l"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¥ð¾½úÿÿÿÿ
+b
+java:S2095T"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Žð­Ï
+X
+java:S1854T"BRemove this useless assignment to local variable "bufferedWriter".(Žð­Ï
+X
+java:S1854["BRemove this useless assignment to local variable "bufferedWriter".(Žð­Ï
+V	java:S125M"<This block of commented-out lines of code should be removed.(Ó¥–®ûÿÿÿÿ
+I
+java:S1481T"3Remove this unused "bufferedWriter" local variable.(Žð­Ï
+I
+java:S1481["3Remove this unused "bufferedWriter" local variable.(Žð­Ï
+P	java:S125t"<This block of commented-out lines of code should be removed.(ƒÜ‘t
+A	java:S106„"+Replace this use of System.out by a logger.(æ¦Ê´
+A	java:S106†"+Replace this use of System.out by a logger.(Ô„‡ú
+F	java:S106"+Replace this use of System.out by a logger.(î‹«Ýýÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(’ŠÜ úÿÿÿÿ
+@	java:S106‘"+Replace this use of System.out by a logger.(·¬Üe
+V	java:S899˜";Do something with the "boolean" value returned by "delete".( í¿«ýÿÿÿÿ
+j
+java:S4042˜"NUse "java.nio.file.Files#delete" here for better messages on error conditions.( í¿«ýÿÿÿÿ
+F	java:S106™"+Replace this use of System.out by a logger.(î·‡šýÿÿÿÿ
+A	java:S106›"+Replace this use of System.out by a logger.(ÑÕ»¹
+F	java:S106ž"+Replace this use of System.out by a logger.(†î¶žúÿÿÿÿ
+@	java:S106¡"+Replace this use of System.out by a logger.(”ÞÖA

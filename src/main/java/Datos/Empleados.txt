@@ -1,0 +1,8 @@
+    {"identificacion":1231323,"cargo":"Medico","fechaIngreso":"2023-11-21","salario":31234213.0,"nombre":"qwwq","edad":0,"genero":"Femenino"}
+{"identificacion":113312331,"cargo":"Medico","fechaIngreso":"2023-11-07","nombreJefe":"fwdssaw","salario":123254233.0,"nombre":"dasqwd","edad":0,"genero":"Femenino"}
+{"identificacion":1231412,"cargo":"Medico","fechaIngreso":"2023-11-01","nombreJefe":"dewqd","salario":1234123213.0,"nombre":"sadaew","edad":12,"genero":"Femenino"}
+{"identificacion":123124213,"cargo":"Medico","fechaIngreso":"2023-11-21","nombreJefe":"seeewrf","salario":2132412.0,"nombre":"dr jhon munoz","edad":25,"genero":"Masculino"}
+{"identificacion":123232,"cargo":"Medico","fechaIngreso":"2023-11-22","nombreJefe":"sdf","salario":0.0,"nombre":"sere","edad":12,"genero":"Femenino"}
+{"identificacion":119279272,"cargo":"Medico","fechaIngreso":"2023-11-22","nombreJefe":"Dr Jhon","salario":3000000.0,"nombre":"johan","edad":23,"genero":"Masculino"}
+{"identificacion":29116412,"cargo":"Medico","fechaIngreso":"2023-11-23","nombreJefe":"Sebastian moreno","salario":5000000.0,"nombre":"paola andrea mu�oz","edad":55,"genero":"Femenino"}
+{"identificacion":1124312,"cargo":"Medico","fechaIngreso":"2023-12-04","nombreJefe":"dsasad","salario":1.236534321E9,"nombre":"albeiro moreno","edad":43,"genero":"Masculino"}

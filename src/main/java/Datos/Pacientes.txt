@@ -1,0 +1,8 @@
+{"regimen":"Subsidiado","salario":0.0,"estrato":1,"identifiacion":11,"direccion":"cra1","fechaConsulta":"2023-11-21","nombre":"s1","edad":1,"genero":"Masculino"}
+{"regimen":"Subsidiado","salario":0.0,"estrato":1,"identifiacion":22,"direccion":"2","fechaConsulta":"2023-11-22","nombre":"s2","edad":2,"genero":"Femenino"}
+{"regimen":"Contributivo","salario":0.0,"estrato":1,"identifiacion":1,"direccion":"1","fechaConsulta":"2023-11-21","nombre":"s1","edad":11,"genero":"Masculino"}
+{"regimen":"Subsidiado","salario":0.0,"estrato":0,"identifiacion":112233,"direccion":"cra 1","fechaConsulta":"2023-11-21","nombre":"paola","edad":12,"genero":"Femenino"}
+{"regimen":"Subsidiado","salario":0.0,"estrato":2,"identifiacion":1192792,"direccion":"ctr","fechaConsulta":"2023-11-16","nombre":"johan sebastian","edad":23,"genero":"Masculino"}
+{"regimen":"Contributivo","salario":0.0,"estrato":4,"identifiacion":29116412,"direccion":"cra 1","fechaConsulta":"2023-11-23","nombre":"paola andre muñoz","edad":55,"genero":"Femenino"}
+{"regimen":"Contributivo","salario":0.0,"estrato":2,"identifiacion":1231412,"direccion":"12cr","fechaConsulta":"2023-11-24","nombre":"j moreno","edad":23,"genero":"Masculino"}
+{"regimen":"Subsidiado","salario":0.0,"estrato":4,"identifiacion":2,"direccion":"asdas","fechaConsulta":"2023-11-25","nombre":"sebastian moreno","edad":23,"genero":"Masculino"}

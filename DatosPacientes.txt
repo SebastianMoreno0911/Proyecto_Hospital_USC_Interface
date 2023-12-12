@@ -1,0 +1,1 @@
+{"regimen":"Subsidiado","salario":0.0,"estrato":1,"identifiacion":121211,"direccion":"assa","nombre":"sebas","edad":12,"genero":"Masculino"}
