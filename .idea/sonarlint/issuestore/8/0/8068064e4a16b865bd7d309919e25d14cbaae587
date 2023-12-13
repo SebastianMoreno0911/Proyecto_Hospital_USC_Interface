@@ -5,20 +5,20 @@ q
 java:S1192 "[Define a constant instead of duplicating this literal "\\src\\main\\java\\Datos\\" 4 times.(È¨°Ý
 f	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¾…·
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“‚Çáÿÿÿÿÿ
+^
+java:S2095{"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÓƒÍ€
+c
+java:S2095l"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¥ð¾½úÿÿÿÿ
 b
 java:S2095m"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(è¹Â…
 g
 java:S2095("LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(þä«Ôøÿÿÿÿ
-^
-java:S2095{"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÓƒÍ€
 b
 java:S2095["LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Žð­Ï
-a
-java:S2095|"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÂÂÏ!
-c
-java:S2095l"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¥ð¾½úÿÿÿÿ
 b
 java:S2095T"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Žð­Ï
+a
+java:S2095|"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÂÂÏ!
 X
 java:S1854T"BRemove this useless assignment to local variable "bufferedWriter".(Žð­Ï
 X
